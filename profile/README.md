@@ -28,7 +28,7 @@ to discuss what you would like to change.
 ## Stay Connected
 Follow us on social media to stay up to date on our latest news and events, learn more about us, or contact us using the links below:
 
-[![Gmail](https://img.shields.io/badge/mail⠀⠀⠀⠀⠀%7F%7F%7F%7F%7F-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nutsandcoltsrobotics.marketing@gmail.com)
+[![Gmail](https://img.shields.io/badge/mail⠀⠀⠀⠀⠀%7F%7F%7F%7F%7F-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nutsandcoltsrobotics.marketing@gmail.com)
 [![Website](https://img.shields.io/badge/website%7F%7F%7F%7F⠀⠀-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nutsandcoltsrobotics.weebly.com/)
 [![twitter](https://img.shields.io/badge/twitter%7F%7F%7F%7F⠀⠀-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nutsandcolts)
 [![youtube](https://img.shields.io/badge/YouTube%7F%7F⠀⠀-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nutscoltsrobotics2101/)
