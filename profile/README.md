@@ -1,5 +1,6 @@
 
 # Parkway Central High Robotics Team
+![Logo](https://nutsandcoltsrobotics.weebly.com/uploads/1/2/7/4/127465840/background-images/99922484.png)
 
 Welcome to the Parkway Central High Robotics Team! We are a group of students who are passionate about robotics and engineering, and we participate in various competitions throughout the year.
 
@@ -30,7 +31,7 @@ Follow us on social media to stay up to date on our latest news and events, lear
 [![Gmail](https://img.shields.io/badge/mail⠀⠀⠀⠀⠀%7F%7F%7F%7F%7F-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nutsandcoltsrobotics.marketing@gmail.com)
 [![Website](https://img.shields.io/badge/website%7F%7F%7F%7F⠀⠀-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nutsandcoltsrobotics.weebly.com/)
 [![twitter](https://img.shields.io/badge/twitter%7F%7F%7F%7F⠀⠀-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nutsandcolts)
-[![youtube](https://img.shields.io/badge/YouTube%7F%7F⠀⠀-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nutscoltsrobotics2101/about)
+[![youtube](https://img.shields.io/badge/YouTube%7F%7F⠀⠀-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nutscoltsrobotics2101/)
 [![Instagram](https://img.shields.io/badge/Instagram%7F-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nutsandcolts/)
 
 ## License
